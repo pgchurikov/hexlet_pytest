@@ -1,1 +1,1 @@
-![Build Status](https://github.com/{USERNAME}/{PROJECT}/workflows/{ACTIONNAME}/badge.svg)](https://github.com/pgchurikov/hexlet_pytest/blob/master/.github/workflows/main.yml)
+![Build Status](https://github.com/pgchurikov/hexlet_pytest/workflows/my-step/badge.svg)](https://github.com/pgchurikov/hexlet_pytest/blob/master/.github/workflows/main.yml)
